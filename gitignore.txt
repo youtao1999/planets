@@ -1,0 +1,4 @@
+moons/
+
+*.jpg
+!reallygood.jpg
